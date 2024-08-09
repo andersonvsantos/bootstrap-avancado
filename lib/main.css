@@ -1,0 +1,21 @@
+header {
+    background-color: #0067DA;
+    color: #FFF;
+    font-style: italic;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    filter: invert(80%);
+}
+
+.carousel-indicators {
+    filter: invert(80%);
+}
+
+@media screen and (max-width: 640px) {
+    
+}
+
+@media screen and (min-width: 641px) and (max-width: 1023px){
+
+}
